@@ -37,7 +37,7 @@ Este laboratorio ayudó a reforzar los conceptos básicos de la programación co
 El código completo del laboratorio se encuentra disponible en el siguiente enlace de GitHub:
 
 \begin{center}
-    \href{https://github.com}}
+    \href{https://github.com/Pochano/Sistemas-Operativos/blob/main/Laboratorio_8/Threads_Laboratorio.c}}
 \end{center}
 
 \end{document}
