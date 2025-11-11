@@ -1,0 +1,43 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\setstretch{1.2}
+
+\begin{document}
+
+\begin{center}
+    \Large \textbf{Universidad Católica San Pablo}\\[4pt]
+    \large Ciencia de la Computación\\[10pt]
+    \Large \textbf{Laboratorio 8: POSIX Threads}\\[2pt]
+    \rule{1.0\textwidth}{0.4pt}\\[10pt]
+\end{center}
+
+\noindent
+\textbf{Alumno:} Valdivia Castillo, José Miguel Mateo\\
+\textbf{Curso:} Sistemas Operativos\\
+\textbf{Fecha:} 11 de noviembre de 2025\\
+\rule{1.0\textwidth}{0.4pt}
+\\[10pt]
+
+
+\section*{Objetivo del Laboratorio}
+El objetivo de este laboratorio fue entender cómo funcionan los hilos (\textit{threads}) en C usando la biblioteca POSIX.  
+Se buscó poner en práctica la creación y manejo de hilos, así como su correcta finalización dentro de un mismo programa.
+
+\section*{Conclusiones}
+Con este trabajo aprendí a crear y controlar hilos usando \texttt{pthread.h}.  
+Además, entendí cómo pasarles parámetros, detenerlos correctamente y evitar que sigan ejecutándose después de salir del programa.  
+Este laboratorio ayudó a reforzar los conceptos básicos de la programación concurrente y la sincronización entre procesos.
+
+\section*{Repositorio del Código}
+El código completo del laboratorio se encuentra disponible en el siguiente enlace de GitHub:
+
+\begin{center}
+    \href{https://github.com}}
+\end{center}
+
+\end{document}
